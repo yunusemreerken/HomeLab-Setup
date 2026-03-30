@@ -7,6 +7,7 @@ Learning IT support and sysadmin skills through hands-on practice.
 ## Environment
 - UTM
 - Windows Server 2015
+- Windows 11 Pro - Client
 - Ubuntu Server 24.04
 
 ## Projects
