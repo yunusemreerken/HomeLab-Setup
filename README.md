@@ -1,6 +1,3 @@
-# homelab-setup
-Personal IT lab environment — Windows Server, Active Directory, networking practice
-
 
 # Home Lab Setup
 
