@@ -11,9 +11,9 @@ Learning IT support and sysadmin skills through hands-on practice.
 - Ubuntu Server 24.04
 
 ## Projects
-- [ ] Active Directory setup
-- [ ] DNS and DHCP configuration
-- [ ] User management with PowerShell
+- [X] Active Directory setup
+- [X] DNS and DHCP configuration
+- [X] User management with PowerShell
 - [ ] Network simulation with Packet Tracer
 
 ## Progress Log
